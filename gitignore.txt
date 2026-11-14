@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller output
+build/
+dist/
+dist_next/
+*.spec.bak
+*.log
+
+# Local app data: logs, settings (may hold a Steam Web API key), caches
+data/
+
+# Local tooling / packaging artefacts
+.freebuff/
+steam.zip
+release/
